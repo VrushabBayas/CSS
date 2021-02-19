@@ -1,6 +1,21 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  /* It has lowest specificity */
+}
+
 section {
-  background: #ff168f;
-  margin: 1px;
-  size: 2px;
-  color: black;
+  background: #ffe344;
+}
+
+.section-title {
+  color: blue;
+}
+
+h1 {
+  color: white;
+  font-family: "Anton", sans-serif;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
 }
